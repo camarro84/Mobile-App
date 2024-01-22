@@ -1,11 +1,55 @@
 body {
-    font-family: "Inter", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
+}
+
+/* our team */
+
+.our-team {
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.team-title {
+}
+
+.team-about {
+  color: #000;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.team-list {
+}
+
+.team-list-item {
+}
+
+.team-picture {
+}
+
+.team-subtitle {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.team-position {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.71;
 }
